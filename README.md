@@ -1,4 +1,4 @@
-# AE353_Drone
+# drone race
 
 Implementation of a simulated quadcopter flying through seven rings controlled by LQR and the gradient descent algorithm using Conda and PyBullet.
 
